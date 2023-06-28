@@ -1,14 +1,13 @@
 ### Hi there, I'm Pavel Sadovskii
 
-## I'm a Team Leader, Developer, and Mentor!
-- 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
-- 🥅 2023 Goals: Damn, I successfully moved to Japan! That's enough goals for this year!
+## I'm a Data Scientist Student!
+- 🔭 I’m currently studing at [Yandex]([https://practicum.yandex.ru/])
+- 🥅 2023 Goals: I want to find my first job in IT
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][]
 
 <br />
 
@@ -36,6 +35,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 [yandex]: https://yandex.ru/
-[twitter]: https://twitter.com/ru_opa
-[linkedin]: https://www.linkedin.com/in/opa-oz/
-[instagram]: https://www.instagram.com/opa_oz/
+[linkedin]: [https://www.linkedin.com/in/opa-oz/](https://www.linkedin.com/in/pavel-sadovskii-9067a9250/)https://www.linkedin.com/in/pavel-sadovskii-9067a9250/
+[instagram]: [https://www.instagram.com/opa_oz/](https://www.instagram.com/pavel.sadovskiy/)https://www.instagram.com/pavel.sadovskiy/
