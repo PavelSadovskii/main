@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavel Sadovskii
 
 ## I'm a Data Scientist Student!
-- 🔭 I’m currently studing at [Yandex]([https://practicum.yandex.ru/])
+- 🔭 I’m currently studying at [Yandex]([https://practicum.yandex.ru/])
 - 🥅 2023 Goals: I want to find my first job in IT
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
