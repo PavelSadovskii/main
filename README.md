@@ -6,12 +6,12 @@
 - ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for the second year, but these are two unrelated facts.
 
 ### Connect with me:
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/pavel-sadovskii-9067a9250/)]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][]
-
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 
 [yandex]: https://yandex.ru/
-[linkedin]: [https://www.linkedin.com/in/pavel-sadovskii-9067a9250/]
-[instagram]: [https://www.instagram.com/opa_oz/](https://www.instagram.com/pavel.sadovskiy/)https://www.instagram.com/pavel.sadovskiy/
+[linkedin]: https://www.linkedin.com/in/pavel-sadovskii-9067a9250/
+[instagram]: https://www.instagram.com/pavel.sadovskiy/
