@@ -13,5 +13,5 @@
 
 
 [yandex]: https://yandex.ru/
-[linkedin]: [(https://www.linkedin.com/in/pavel-sadovskii-9067a9250/)https://www.linkedin.com/in/pavel-sadovskii-9067a9250/]
+[linkedin]: [https://www.linkedin.com/in/pavel-sadovskii-9067a9250/]
 [instagram]: [https://www.instagram.com/opa_oz/](https://www.instagram.com/pavel.sadovskiy/)https://www.instagram.com/pavel.sadovskiy/
