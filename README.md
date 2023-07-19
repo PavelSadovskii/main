@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavel Sadovskii
 
 ## I'm a Data Scientist Student!
-- 🔭 I’m currently studying at [Yandex]([https://practicum.yandex.ru/])
+- 🔭 I’m currently studying at [Yandex.Practicum]([https://practicum.yandex.ru/])
 - 🥅 2023 Goals: I want to find my first job in IT
 - ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for the second year, but these are two unrelated facts.
 
@@ -11,7 +11,7 @@
 <br />
 
 
-[yandex]: https://yandex.ru/
+[Yandex.Practicum]: https://practicum.yandex.ru/
 [linkedin]: https://www.linkedin.com/in/pavel-sadovskii-9067a9250/
 [instagram]: https://www.instagram.com/pavel.sadovskiy/
 
